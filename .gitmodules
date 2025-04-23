@@ -1,0 +1,6 @@
+[submodule "weather-app-backend"]
+	path = weather-app-backend
+	url = https://github.com/mirror83/weather-app-backend
+[submodule "weather-app-frontend"]
+	path = weather-app-frontend
+	url = https://github.com/mirror83/weather-app-frontend

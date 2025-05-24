@@ -7,7 +7,7 @@ A copy of the assessment requirements can be found [here](https://docs.google.co
 - Run the command below to get the backend and frontend submodules.
 
   ```bash
-  git clone --recurse-submodules https://github.com/chaconinc/MainProject
+  git clone --recurse-submodules https://github.com/mirror83/weather-app
   ```
 
 ### Backend setup
